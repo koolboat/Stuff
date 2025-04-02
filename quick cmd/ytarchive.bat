@@ -1,6 +1,6 @@
 @echo off
 TITLE live holoarchiver
-cd /d "A:\Videos\archived videos"
+cd /d "E:\Videos\archived videos"
 echo Saving file to %CD%
 set /p yturl="Stream URL: "
 @echo on
